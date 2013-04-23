@@ -1,0 +1,9 @@
+<package>
+  <description brief="constraint_msgs">
+    Messages for specifying movement constraints, and reporting their state.
+  </description>
+  <author>Ingo Kresse</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="geometry_msgs"/>
+</package>
