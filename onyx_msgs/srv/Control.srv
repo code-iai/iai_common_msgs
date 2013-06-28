@@ -17,6 +17,8 @@ string mediated_connection_id
 # Data fields
 string offered_service_name
 onyx_msgs/MediatedServiceResponse predefined_response
+string trigger_topic
+string results_topic
 ---
 # Identification
 string mediated_connection_id
