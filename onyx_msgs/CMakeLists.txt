@@ -34,6 +34,7 @@ add_message_files(
 add_service_files(
   FILES
   Mediate.srv
+  Control.srv
 )
 
 ## Generate added messages and services with any dependencies listed here

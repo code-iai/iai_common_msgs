@@ -1,0 +1,35 @@
+# Operations
+int32 ADD_MEDIATED_CONNECTION=0
+int32 UPDATE_MEDIATED_CONNECTION=1
+int32 REMOVE_MEDIATED_CONNECTION=2
+
+int32 operation
+
+# Types
+int32 MEDIATE_TRIGGERED_TOPIC_TO_ROSSERVICE=0
+int32 OFFER_VIRTUAL_SERVICE=1
+
+int32 type
+
+# Identification
+string mediated_connection_id
+
+# Data fields
+string offered_service_name
+onyx_msgs/MediatedServiceResponse predefined_response
+---
+# Identification
+string mediated_connection_id
+
+# Return values
+int32 ID_UNKNOWN=0
+int32 ID_ALREADY_TAKEN=1
+int32 SERVICE_ALREADY_OFFERED=2
+int32 NO_SERVICE_SPECIFIED=3
+int32 INVALID_OPERATION=4
+int32 INVALID_TYPE=5
+
+int32 error_code
+
+string error_message
+bool success

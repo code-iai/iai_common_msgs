@@ -1,3 +1,18 @@
+# Service layer
 onyx_msgs/MediatedServiceRequest request
+
+# Communication layer
+float32 timeout # Timeout in seconds
 ---
+# Service layer
 onyx_msgs/MediatedServiceResponse response
+
+# Communication layer
+int32 NO_ERROR=0
+int32 ERROR_TIMEOUT=1
+int32 SERVICE_MISCONFIGURED=2
+
+int32 error_code
+
+float32 time_elapsed # Elapsed time in seconds
+bool success
