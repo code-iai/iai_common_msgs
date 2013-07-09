@@ -24,6 +24,8 @@ add_message_files(
   FILES
   Designator.msg
   KeyValuePair.msg
+  DesignatorRequest.msg
+  DesignatorResponse.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -50,7 +52,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES designator_integration_msgs
-  CATKIN_DEPENDS genmsg genlisp gencpp geometry_msgs message_generation
+  CATKIN_DEPENDS genmsg genlisp gencpp geometry_msgs message_generation message_runtime
 #  DEPENDS system_lib
 )
 
