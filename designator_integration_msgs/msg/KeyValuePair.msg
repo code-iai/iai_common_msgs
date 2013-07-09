@@ -8,6 +8,7 @@ int32 TYPE_FLOAT=1
 int32 TYPE_DATA=2
 int32 TYPE_LIST=3
 int32 TYPE_POSESTAMPED=4
+int32 TYPE_POSE=5
 
 int32 type
 
@@ -16,3 +17,4 @@ string value_string
 float32 value_float
 float32[] value_data
 geometry_msgs/PoseStamped value_posestamped
+geometry_msgs/Pose value_pose
