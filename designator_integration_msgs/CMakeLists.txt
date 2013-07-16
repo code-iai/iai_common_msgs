@@ -4,7 +4,7 @@ project(designator_integration_msgs)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS genmsg genlisp gencpp geometry_msgs message_generation)
+find_package(catkin REQUIRED COMPONENTS geometry_msgs message_generation)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -52,7 +52,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES designator_integration_msgs
-  CATKIN_DEPENDS genmsg genlisp gencpp geometry_msgs message_runtime
+  CATKIN_DEPENDS geometry_msgs message_runtime
 #  DEPENDS system_lib
 )
 
