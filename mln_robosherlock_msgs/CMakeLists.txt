@@ -4,7 +4,7 @@ project(mln_robosherlock_msgs)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED)
+find_package(catkin REQUIRED message_generation)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -60,7 +60,7 @@ add_service_files(
 
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
-   DEPENDENCIES
+#   DEPENDENCIES
 #   std_msgs  # Or other packages containing msgs
 )
 
@@ -76,7 +76,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES mln_robosherlock_msgs
-#  CATKIN_DEPENDS other_catkin_pkg
+  CATKIN_DEPENDS message_runtime 
 #  DEPENDS system_lib
 )
 
