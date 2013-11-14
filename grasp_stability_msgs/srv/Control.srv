@@ -1,0 +1,7 @@
+int32 CTRL_START=0
+int32 CTRL_STOP=1
+int32 command
+---
+int32 FAILURE=0
+int32 SUCCESS=1
+int32 result
