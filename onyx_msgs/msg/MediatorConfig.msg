@@ -1,4 +1,0 @@
-string connection_name
-string service_topic
-string trigger_topic
-string results_topic
