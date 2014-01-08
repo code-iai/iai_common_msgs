@@ -1,4 +1,4 @@
 MLNAtoms[] mln_atoms
 ---
-string result
+string[] result
 
