@@ -25,5 +25,7 @@ uint8 RIGHTCHEST=23
 uint8 LEFTCHEST=24
 
 int32 id
+int32 label
+int32[] childIDs
 geometry_msgs/Point32 centroid
 float32 radius
