@@ -24,6 +24,11 @@ add_message_files(
   FILES
   BodyPart.msg
   Human.msg
+  Equipment.msg
+)
+add_service_files(
+  FILES
+  PerceiveEquipment.srv  
 )
 
 generate_messages(
