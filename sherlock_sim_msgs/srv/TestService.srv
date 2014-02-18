@@ -1,6 +1,8 @@
 #request
-float64[3] position
-float64[4] orientation
+std_msgs/Header header
+geometry_msgs/Pose
+int32 id
+string modelName
 ---
 #response
 bool flag
