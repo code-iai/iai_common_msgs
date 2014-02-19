@@ -1,10 +1,18 @@
-cmake_minimum_required(VERSION 2.4.6)
-include($ENV{ROS_ROOT}/core/rosbuild/rosbuild.cmake)
+cmake_minimum_required(VERSION 2.8.3)
+project(iai_pancake_perception_action)
 
-rosbuild_find_ros_package(actionlib_msgs)
-include(${actionlib_msgs_PACKAGE_PATH}/cmake/actionbuild.cmake)
-genaction()
+find_package(catkin REQUIRED COMPONENTS geometry_msgs actionlib_msgs message_generation)
 
-rosbuild_init()
+add_action_files(
+  FILES
+  DetectPancake.action
+)
 
-rosbuild_genmsg()
+generate_messages(
+  DEPENDENCIES
+  geometry_msgs
+  actionlib_msgs
+)
+catkin_package(
+CATKIN_DEPENDS geometry_msgs actionlib_msgs
+)
