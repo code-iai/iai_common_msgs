@@ -1,5 +1,6 @@
 int32 TYPE_PIECHART=0
 int32 TYPE_BARCHART=1
+int32 TYPE_TREECHART=2
 
 string id
 int32 type
