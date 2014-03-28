@@ -1,9 +1,0 @@
-# GOAL
-# all transforms that shall be broadcasted
-geometry_msgs/TransformStamped[] transforms
-# publishing frequency
-uint64 frequency
----
-# RESULT
----
-# FEEDBACK
