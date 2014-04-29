@@ -52,7 +52,7 @@ catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES iai_content_msgs
 #  CATKIN_DEPENDS other_catkin_pkg
-  DEPENDS sensor_msgs 
+  CATKIN_DEPENDS sensor_msgs message_runtime
 )
 
 ###########

@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(iai_kinematics_msgs)
 
-find_package (catkin REQUIRED geometry_msgs sensor_msgs std_msgs message_generation)
+find_package (catkin REQUIRED COMPONENTS geometry_msgs sensor_msgs std_msgs message_generation)
 
 add_message_files(
   FILES
