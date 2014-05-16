@@ -4,7 +4,7 @@
   <description>
     Action interface to trigger perception of pancake oven and pancake.
   </description>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <author>Georg Bartels (georg.bartels@cs.uni-bremen.de)</author>
   <author>Ferenc Balint-Benczedi (catkinization)</author>
   <maintainer email="TODO@TODO.COM">TODO</maintainer>
