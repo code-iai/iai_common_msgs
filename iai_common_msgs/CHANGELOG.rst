@@ -2,8 +2,8 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2014-05-16)
+------------------
 * Added all message packages in iai_common_msgs as dependencies
 * Corrected version numbers
 * Added package descriptions and fixed licenses where applicable

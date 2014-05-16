@@ -2,8 +2,8 @@
 Changelog for package data_vis_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2014-05-16)
+------------------
 * Added package descriptions and fixed licenses where applicable
 * added tree diagram to message
 * added variables for width, height and font size

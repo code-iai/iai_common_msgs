@@ -2,8 +2,8 @@
 Changelog for package dna_extraction_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2014-05-16)
+------------------
 * Added non-meaningless description to dna_extraction_msgs package
 * changed service to TransformStamped
 * service definition for acat demo

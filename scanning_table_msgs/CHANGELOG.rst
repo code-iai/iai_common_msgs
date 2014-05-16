@@ -2,8 +2,8 @@
 Changelog for package scanning_table_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2014-05-16)
+------------------
 * Corrected versions
 * Sorting, cleanup of dependencies
 * _msgs-packages should not depend on functional packages, i.e. actionlib
