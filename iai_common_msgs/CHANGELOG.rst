@@ -1,0 +1,13 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package iai_common_msgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Forthcoming
+-----------
+* Added all message packages in iai_common_msgs as dependencies
+* Corrected version numbers
+* Added package descriptions and fixed licenses where applicable
+* Removed old msgs definitions and references, plus the mln_robosherlock_msgs dependency
+* Corrected some information in package.xml and CMakeLists.txt as reported by catkin_lint
+* catkinezed pancake perception added metapackage
+* Contributors: Ferenc Balint-Benczedi, Jan Winkler
