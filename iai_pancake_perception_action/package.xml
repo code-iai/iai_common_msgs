@@ -1,10 +1,10 @@
- <!--?xml version="1.0"?--> 
+<!--?xml version="1.0"?--> 
 <package>
   <name>iai_pancake_perception_action</name>
   <description>
     Action interface to trigger perception of pancake oven and pancake.
   </description>
-  <version>0.0.1</version>
+  <version>0.0.0</version>
   <author>Georg Bartels (georg.bartels@cs.uni-bremen.de)</author>
   <author>Ferenc Balint-Benczedi (catkinization)</author>
   <maintainer email="TODO@TODO.COM">TODO</maintainer>
