@@ -10,21 +10,21 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files (
   FILES
   PerceivedObject.msg
-  SimpleObjectPerceptionRequest.msg
-)
+  SimpleObjectPerceptionRequest.msg)
 
 add_action_files(
   FILES
-  DetectPancake.action
-  SimplePerceiveObject.action
-)
+  SimplePerceiveObject.action)
 
 generate_messages(
   DEPENDENCIES
   geometry_msgs
   shape_msgs
-  actionlib_msgs
-)
+  actionlib_msgs)
+
 catkin_package(
-CATKIN_DEPENDS geometry_msgs shape_msgs actionlib_msgs message_runtime
-)
+  CATKIN_DEPENDS 
+    geometry_msgs 
+    shape_msgs 
+    actionlib_msgs 
+    message_runtime)
