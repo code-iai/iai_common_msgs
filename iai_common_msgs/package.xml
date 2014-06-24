@@ -16,7 +16,7 @@
   <run_depend>data_vis_msgs</run_depend>
   <run_depend>dna_extraction_msgs</run_depend>
   <run_depend>iai_kinematics_msgs</run_depend>
-  <run_depend>iai_pancake_perception_action</run_depend>
+  <run_depend>iai_robosherlock_actions</run_depend>
   <run_depend>mln_robosherlock_msgs</run_depend>
   <run_depend>saphari_msgs</run_depend>
   <run_depend>scanning_table_msgs</run_depend>

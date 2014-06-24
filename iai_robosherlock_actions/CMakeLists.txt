@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(iai_pancake_perception_action)
+project(iai_robosherlock_actions)
 
 find_package(catkin REQUIRED COMPONENTS geometry_msgs actionlib_msgs message_generation message_runtime)
 
