@@ -2,6 +2,11 @@
 Changelog for package data_vis_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added datatype for timeline diagrams (Gantt-Style)
+* Contributors: Moritz Tenorth
+
 0.0.1 (2014-05-16)
 ------------------
 * Added package descriptions and fixed licenses where applicable

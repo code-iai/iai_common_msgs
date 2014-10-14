@@ -2,6 +2,13 @@
 Changelog for package saphari_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added constants
+* added a message that contains a list equipment messages.
+  service will now return that new message instead of a list of equipment messages.
+* Contributors: Thiemo Wiedemeyer
+
 0.0.1 (2014-05-16)
 ------------------
 * Added package descriptions and fixed licenses where applicable

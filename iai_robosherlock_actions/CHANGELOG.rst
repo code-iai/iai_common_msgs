@@ -10,6 +10,15 @@ Changelog for package iai_robosherlock_actions
 * removed action-definition 'DetectPancake'
 * Contributiors: Georg Bartels
 
+Forthcoming
+-----------
+* changed RS action interface to use designator msgs
+* Updated changelog of iai_robosherlock_actions.
+* Deleted action-definition DetectPancake
+* Added action-definition SimplePerceiveObject.
+* Renamed iai_pancake_perception_action into iai_robosherlock_actions.
+* Contributors: Ferenc Balint-Benczedi, Georg Bartels
+
 0.0.1 (2014-05-16)
 ------------------
 * Corrected version numbers

@@ -2,6 +2,9 @@
 Changelog for package mln_robosherlock_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.1 (2014-05-16)
 ------------------
 * Fixed a version number

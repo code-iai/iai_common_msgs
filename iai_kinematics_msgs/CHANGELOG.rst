@@ -2,6 +2,9 @@
 Changelog for package iai_kinematics_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.1 (2014-05-16)
 ------------------
 * Corrected versions
