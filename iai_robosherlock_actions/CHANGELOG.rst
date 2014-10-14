@@ -10,8 +10,8 @@ Changelog for package iai_robosherlock_actions
 * removed action-definition 'DetectPancake'
 * Contributiors: Georg Bartels
 
-Forthcoming
------------
+0.0.3 (2014-10-14)
+------------------
 * changed RS action interface to use designator msgs
 * Updated changelog of iai_robosherlock_actions.
 * Deleted action-definition DetectPancake

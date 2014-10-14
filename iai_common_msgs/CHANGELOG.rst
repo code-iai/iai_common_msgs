@@ -2,8 +2,8 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2014-10-14)
+------------------
 * Renamed iai_pancake_perception_action into iai_robosherlock_actions.
 * Contributors: Georg Bartels
 

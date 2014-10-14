@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>iai_common_msgs</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>Message definitions created and used by the Institute for Artificial Intelligence research group at the University of Bremen</description>
  
   <author>IAI Robotics Group</author>
