@@ -2,7 +2,7 @@
 Changelog for package iai_robosherlock_actions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.3 (2014-06-24)
+0.0.2 (2014-06-24)
 ------------------
 * Increased version numbers
 * renamed iai_pancake_perception_action into iai_robosherlock_actions
