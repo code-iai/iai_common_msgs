@@ -5,8 +5,8 @@ find_package(catkin REQUIRED message_generation)
 
 add_message_files(
   FILES
-  JointVelocityCommand.msg
-  JointVelocityImpedanceCommand.msg)
+  MultiJointVelocityCommand.msg
+  MultiJointVelocityImpedanceCommand.msg)
 
 generate_messages()
 
