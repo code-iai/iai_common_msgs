@@ -17,7 +17,7 @@ int32 type
 
 string key
 string value_string
-float32 value_float
+float64 value_float
 char[] value_data
 geometry_msgs/PoseStamped value_posestamped
 geometry_msgs/Pose value_pose
