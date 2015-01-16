@@ -1,4 +1,5 @@
 MLNAtoms[] mln_atoms
 ---
+int32[] indices
 string[] result
 
