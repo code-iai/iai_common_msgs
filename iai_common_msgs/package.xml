@@ -21,6 +21,7 @@
   <run_depend>saphari_msgs</run_depend>
   <run_depend>scanning_table_msgs</run_depend>
   <run_depend>sherlock_sim_msgs</run_depend>
+  <run_depend>iai_wsg_50_msgs</run_depend>
 
   <export>
    <metapackage/>
