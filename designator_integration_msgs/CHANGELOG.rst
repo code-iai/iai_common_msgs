@@ -2,8 +2,8 @@
 Changelog for package designator_integration_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2015-03-19)
+------------------
 * Allowing to encode float arrays in designator message
 * Added 3 more value types to designator-integration-msgs.
 * Added support for designators of type humans to designator_integration_msgs.

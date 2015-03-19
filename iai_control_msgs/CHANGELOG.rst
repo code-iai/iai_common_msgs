@@ -2,8 +2,8 @@
 Changelog for package iai_control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2015-03-19)
+------------------
 * Added CHANGELOG.rst files for the new message packages
 * Add a stamp to the messages
 * Renamed messages for multi-joint velocity controllers.

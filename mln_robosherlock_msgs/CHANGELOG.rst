@@ -2,8 +2,8 @@
 Changelog for package mln_robosherlock_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2015-03-19)
+------------------
 * update to MLN message
 * Contributors: Ferenc Balint-Benczedi
 

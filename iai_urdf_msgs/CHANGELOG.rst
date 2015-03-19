@@ -2,8 +2,8 @@
 Changelog for package iai_urdf_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2015-03-19)
+------------------
 * Fix version number
 * Added CHANGELOG.rst files for the new message packages
 * Revert "Replaced the AlterUrdf service with an action"

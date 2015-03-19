@@ -2,8 +2,8 @@
 Changelog for package saphari_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2015-03-19)
+------------------
 * Added userId to saphariHuman msg
 * Contributors: Jan-Hendrik Worch
 

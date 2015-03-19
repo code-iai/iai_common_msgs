@@ -2,8 +2,8 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2015-03-19)
+------------------
 * Added iai_wsg_50_msgs to package.xml of iai_common_msgs.
 * Contributors: Georg Bartels
 
