@@ -4,6 +4,10 @@ Changelog for package person_msgs
 
 Forthcoming
 -----------
+* Added CHANGELOG.rst files for the new message packages
+* Added preliminary new person msgs
+* Contributors: Jan Winkler, Jan-Hendrik Worch
+
 * Added preliminary new person msgs
 * Contributors: Jan-Hendrik Worch
 

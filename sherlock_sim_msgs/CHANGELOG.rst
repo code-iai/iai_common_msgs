@@ -2,6 +2,9 @@
 Changelog for package sherlock_sim_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.3 (2014-10-14)
 ------------------
 

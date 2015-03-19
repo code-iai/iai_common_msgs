@@ -2,6 +2,11 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added iai_wsg_50_msgs to package.xml of iai_common_msgs.
+* Contributors: Georg Bartels
+
 0.0.3 (2014-10-14)
 ------------------
 * Renamed iai_pancake_perception_action into iai_robosherlock_actions.

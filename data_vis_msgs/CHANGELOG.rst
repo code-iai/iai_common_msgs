@@ -2,6 +2,11 @@
 Changelog for package data_vis_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add type constant for line charts
+* Contributors: Moritz Tenorth
+
 0.0.3 (2014-10-14)
 ------------------
 * Added datatype for timeline diagrams (Gantt-Style)

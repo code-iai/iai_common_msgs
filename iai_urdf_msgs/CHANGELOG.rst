@@ -4,6 +4,14 @@ Changelog for package iai_urdf_msgs
 
 Forthcoming
 -----------
+* Fix version number
+* Added CHANGELOG.rst files for the new message packages
+* Revert "Replaced the AlterUrdf service with an action"
+  This reverts commit d518491c3b7b19108354e188979a8a79d8dcf197.
+* Replaced the AlterUrdf service with an action
+* Added iai_urdf_msgs
+* Contributors: Jan Winkler, Jannik Buckelo
+
 * Revert "Replaced the AlterUrdf service with an action"
 * Replaced the AlterUrdf service with an action
 * Added iai_urdf_msgs

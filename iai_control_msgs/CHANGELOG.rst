@@ -4,6 +4,13 @@ Changelog for package iai_control_msgs
 
 Forthcoming
 -----------
+* Added CHANGELOG.rst files for the new message packages
+* Add a stamp to the messages
+* Renamed messages for multi-joint velocity controllers.
+* Added new message definition for multi-joint-velocity commands.
+* Added new message for velocity-commands of joint controllers.
+* Contributors: Alexis Maldonado, Georg Bartels, Jan Winkler
+
 * Add a stamp to the messages
 * Renamed messages for multi-joint velocity controllers.
 * Added new message definition for multi-joint-velocity commands.

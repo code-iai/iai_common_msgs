@@ -2,6 +2,11 @@
 Changelog for package saphari_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added userId to saphariHuman msg
+* Contributors: Jan-Hendrik Worch
+
 0.0.3 (2014-10-14)
 ------------------
 * added constants

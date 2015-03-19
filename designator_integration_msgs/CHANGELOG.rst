@@ -2,6 +2,14 @@
 Changelog for package designator_integration_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Allowing to encode float arrays in designator message
+* Added 3 more value types to designator-integration-msgs.
+* Added support for designators of type humans to designator_integration_msgs.
+* Changed internal format of floating point numbers from 32 bit to 64 bit
+* Contributors: Daniel Beßler, Georg Bartels, Jan Winkler
+
 0.0.3 (2014-10-14)
 ------------------
 

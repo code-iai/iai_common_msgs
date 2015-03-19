@@ -2,6 +2,11 @@
 Changelog for package dna_extraction_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* name update
+* Contributors: Ferenc Balint-Benczedi
+
 0.0.3 (2014-10-14)
 ------------------
 
