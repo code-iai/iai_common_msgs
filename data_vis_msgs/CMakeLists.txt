@@ -4,7 +4,7 @@ project(data_vis_msgs)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS message_generation)
+find_package(catkin REQUIRED COMPONENTS geometry_msgs message_generation)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -24,6 +24,7 @@ add_message_files(
   FILES
   DataVis.msg
   ValueList.msg
+  Speech.msg
 #  Designator.msg
 #  KeyValuePair.msg
 #  DesignatorRequest.msg
@@ -39,7 +40,7 @@ add_message_files(
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
   DEPENDENCIES
-  #geometry_msgs
+  geometry_msgs
 #   std_msgs  # Or other packages containing msgs
 )
 
@@ -54,7 +55,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES designator_integration_msgs
-  CATKIN_DEPENDS message_runtime
+  CATKIN_DEPENDS geometry_msgs message_runtime
 #  DEPENDS system_lib
 )
 
