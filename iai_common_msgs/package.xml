@@ -23,6 +23,7 @@
   <run_depend>sherlock_sim_msgs</run_depend>
   <run_depend>iai_wsg_50_msgs</run_depend>
   <run_depend>person_msgs</run_depend>
+  <run_depend>json_prolog_msgs</run_depend>
 
   <export>
    <metapackage/>
