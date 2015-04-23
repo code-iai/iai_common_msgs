@@ -24,6 +24,8 @@ add_message_files(
   FILES
   DataVis.msg
   ValueList.msg
+  TaskTree.msg
+  Task.msg
 #  Designator.msg
 #  KeyValuePair.msg
 #  DesignatorRequest.msg
