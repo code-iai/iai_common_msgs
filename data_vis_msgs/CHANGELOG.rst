@@ -2,8 +2,8 @@
 Changelog for package data_vis_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2015-04-24)
+------------------
 * added messages for Task tree visualization
 * Added data_vis_msgs/Speech message dedicated for the visualization of speech.
 * Added data_vis_msgs/Speech message dedicated for the visualization of speech.

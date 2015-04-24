@@ -2,8 +2,8 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2015-04-24)
+------------------
 * Added json_prolog_msgs to metapackage.
 * Person msgs part of iai_common_msgs
 * Contributors: Georg Bartels, Jan Winkler
