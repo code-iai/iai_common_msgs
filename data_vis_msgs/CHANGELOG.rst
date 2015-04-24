@@ -2,6 +2,13 @@
 Changelog for package data_vis_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added messages for Task tree visualization
+* Added data_vis_msgs/Speech message dedicated for the visualization of speech.
+* Added data_vis_msgs/Speech message dedicated for the visualization of speech.
+* Contributors: Asil Kaan Bozcuoglu, Daniel Beßler
+
 0.0.4 (2015-03-19)
 ------------------
 * Add type constant for line charts

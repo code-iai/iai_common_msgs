@@ -2,6 +2,9 @@
 Changelog for package person_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.4 (2015-03-19)
 ------------------
 * Added CHANGELOG.rst files for the new message packages

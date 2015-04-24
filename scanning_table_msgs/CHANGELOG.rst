@@ -2,6 +2,9 @@
 Changelog for package scanning_table_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.4 (2015-03-19)
 ------------------
 

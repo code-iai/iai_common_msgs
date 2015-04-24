@@ -2,6 +2,11 @@
 Changelog for package iai_control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added a state message for multi-joint velocity-resolved controllers which allow commanding impedances.
+* Contributors: Georg Bartels
+
 0.0.4 (2015-03-19)
 ------------------
 * Added CHANGELOG.rst files for the new message packages
