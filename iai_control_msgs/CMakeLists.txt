@@ -1,17 +1,20 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(iai_control_msgs)
 
-find_package(catkin REQUIRED message_generation std_msgs)
+find_package(catkin REQUIRED message_generation std_msgs geometry_msgs)
 
 add_message_files(
   FILES
   MultiJointVelocityCommand.msg
   MultiJointVelocityImpedanceCommand.msg
-  MultiJointVelocityImpedanceState.msg)
+  MultiJointVelocityImpedanceState.msg
+  CartGoal.msg)
+
 
 generate_messages(
   DEPENDENCIES
-  std_msgs)
+  std_msgs
+  geometry_msgs)
 
 catkin_package(
-  CATKIN_DEPENDS message_runtime std_msgs)
+  CATKIN_DEPENDS message_runtime std_msgs geometry_msgs)
