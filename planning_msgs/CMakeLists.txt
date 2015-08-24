@@ -6,6 +6,7 @@ find_package(catkin REQUIRED COMPONENTS message_generation)
 add_message_files(FILES
   Binding.msg
   Plan.msg
+  Step.msg
 )
 
 add_service_files(FILES

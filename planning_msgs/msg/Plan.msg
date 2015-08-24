@@ -1,3 +1,2 @@
-string type
-string[] steps
-Binding[] bindings
+Step[] steps
+float32 score
