@@ -11,6 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files (
   FILES
   PerceivedObject.msg
+  PerceivedObjects.msg
   SimpleObjectPerceptionRequest.msg)
 
 add_action_files(
