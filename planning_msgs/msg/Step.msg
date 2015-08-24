@@ -1,3 +1,3 @@
 string type
-string identifier
+string[] keywords
 Binding[] bindings
