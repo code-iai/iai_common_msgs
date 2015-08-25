@@ -1,10 +1,10 @@
 # Constants for determining the datatype encapsulated in the `value` string
-int STRING=0
-int INT=1
-int FLOAT=2
-int SYMBOL=3
+int32 STRING=0
+int32 INT=1
+int32 FLOAT=2
+int32 SYMBOL=3
 
 # The actual fields
-int type
+int32 type
 string key
 string value

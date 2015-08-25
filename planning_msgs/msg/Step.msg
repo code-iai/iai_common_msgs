@@ -1,3 +1,3 @@
 string type
-string[] keywords
+string pattern
 Binding[] bindings
