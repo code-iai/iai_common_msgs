@@ -2,3 +2,4 @@ string pattern
 Binding[] bindings
 ---
 Plan[] plans
+string[] unused_bindings
