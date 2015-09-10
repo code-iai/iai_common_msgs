@@ -4,3 +4,4 @@ string type
 string pattern
 string[] call_pattern
 Binding[] bindings
+float32 score
