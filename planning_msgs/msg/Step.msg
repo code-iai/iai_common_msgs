@@ -5,3 +5,4 @@ string pattern
 string[] call_pattern
 Binding[] bindings
 float32 score
+float32[] duration
