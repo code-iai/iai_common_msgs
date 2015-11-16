@@ -24,6 +24,7 @@ add_message_files(
   FILES
   BodyPart.msg
   Human.msg
+  Humans.msg
   Equipment.msg
   PerceivedEquipment.msg
 )

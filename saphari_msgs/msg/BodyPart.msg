@@ -34,4 +34,5 @@ int32 id
 int32 label
 int32[] childIDs
 geometry_msgs/Point32 centroid
+geometry_msgs/TransformStamped tf
 float32 radius
