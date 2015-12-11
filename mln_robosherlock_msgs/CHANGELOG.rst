@@ -2,6 +2,9 @@
 Changelog for package mln_robosherlock_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2015-04-24)
 ------------------
 

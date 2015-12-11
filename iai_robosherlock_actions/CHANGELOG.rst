@@ -10,6 +10,11 @@ Changelog for package iai_robosherlock_actions
 * removed action-definition 'DetectPancake'
 * Contributiors: Georg Bartels
 
+Forthcoming
+-----------
+* added a new message type for perceived objects
+* Contributors: Ferenc Balint-Benczedi
+
 0.0.5 (2015-04-24)
 ------------------
 

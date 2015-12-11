@@ -2,6 +2,12 @@
 Changelog for package data_vis_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added label to ValueList entry
+  This is needed for generating a legend for multiple data rows, for instance multiple timelines
+* Contributors: Moritz Tenorth
+
 0.0.5 (2015-04-24)
 ------------------
 * added messages for Task tree visualization

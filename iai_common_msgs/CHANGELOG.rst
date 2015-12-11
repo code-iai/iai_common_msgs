@@ -2,6 +2,12 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Reordered deps in metapackage, and added missing deps iai_control_msgs, iai_urdf_msgs, grasp_stability_msgs.
+* Added planning request/response service messages
+* Contributors: Georg Bartels, Jan Winkler
+
 0.0.5 (2015-04-24)
 ------------------
 * Added json_prolog_msgs to metapackage.

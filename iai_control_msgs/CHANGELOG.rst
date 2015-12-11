@@ -2,6 +2,15 @@
 Changelog for package iai_control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add a jointlimits message
+* arm_ik_controller: report seconds since the goal started
+* Add a State message for the Cartesian Controller
+* Added a action message for the PTU
+* added goal for the arms
+* Contributors: Alexis Maldonado
+
 0.0.5 (2015-04-24)
 ------------------
 * Added a state message for multi-joint velocity-resolved controllers which allow commanding impedances.
