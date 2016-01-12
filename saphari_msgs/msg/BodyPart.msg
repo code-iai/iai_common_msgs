@@ -15,7 +15,7 @@ uint8 RIGHTFOREARM=13
 uint8 RIGHTHAND=14
 uint8 LEFTARM=15
 uint8 LEFTELBOW=16
-uint8 FOREARM=17
+uint8 LEFTFOREARM=17
 uint8 LEFTHAND=18
 uint8 LEFTBOTTOMFACE=19
 uint8 RIGHTBOTTOMFACE=20
@@ -34,4 +34,5 @@ int32 id
 int32 label
 int32[] childIDs
 geometry_msgs/Point32 centroid
+geometry_msgs/TransformStamped tf
 float32 radius

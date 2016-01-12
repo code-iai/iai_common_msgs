@@ -2,6 +2,9 @@
 Changelog for package dna_extraction_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2015-04-24)
 ------------------
 

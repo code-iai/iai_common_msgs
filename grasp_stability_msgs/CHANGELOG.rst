@@ -2,6 +2,9 @@
 Changelog for package grasp_stability_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2015-04-24)
 ------------------
 

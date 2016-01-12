@@ -2,6 +2,9 @@
 Changelog for package designator_integration_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2015-04-24)
 ------------------
 
