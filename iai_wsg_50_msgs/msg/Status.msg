@@ -1,3 +1,4 @@
+std_msgs/Header header
 string status
 float32 width
 float32 speed
