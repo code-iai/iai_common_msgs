@@ -12,6 +12,10 @@ Changelog for package iai_robosherlock_actions
 
 Forthcoming
 -----------
+* Changelog files for release
+* added a new message type for perceived objects
+* Contributors: Ferenc Balint-Benczedi, Jan Winkler
+
 * added a new message type for perceived objects
 * Contributors: Ferenc Balint-Benczedi
 

@@ -4,6 +4,11 @@ Changelog for package data_vis_msgs
 
 Forthcoming
 -----------
+* Changelog files for release
+* Added label to ValueList entry
+  This is needed for generating a legend for multiple data rows, for instance multiple timelines
+* Contributors: Jan Winkler, Moritz Tenorth
+
 * Added label to ValueList entry
   This is needed for generating a legend for multiple data rows, for instance multiple timelines
 * Contributors: Moritz Tenorth

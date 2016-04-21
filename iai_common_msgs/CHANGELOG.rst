@@ -4,6 +4,12 @@ Changelog for package iai_common_msgs
 
 Forthcoming
 -----------
+* Added attache messages
+* Changelog files for release
+* Reordered deps in metapackage, and added missing deps iai_control_msgs, iai_urdf_msgs, grasp_stability_msgs.
+* Added planning request/response service messages
+* Contributors: Georg Bartels, Jan Winkler
+
 * Reordered deps in metapackage, and added missing deps iai_control_msgs, iai_urdf_msgs, grasp_stability_msgs.
 * Added planning request/response service messages
 * Contributors: Georg Bartels, Jan Winkler

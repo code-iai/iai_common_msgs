@@ -4,6 +4,8 @@ Changelog for package person_msgs
 
 Forthcoming
 -----------
+* Changelog files for release
+* Contributors: Jan Winkler
 
 0.0.5 (2015-04-24)
 ------------------
