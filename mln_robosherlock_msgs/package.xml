@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>mln_robosherlock_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Message definitions for communicating between the RoboSherlock perception system and the MLN PRAC inference machine</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

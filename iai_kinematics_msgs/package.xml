@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>iai_kinematics_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>
     Ensemble of messages to communicate/request kinematics-related issues.
     

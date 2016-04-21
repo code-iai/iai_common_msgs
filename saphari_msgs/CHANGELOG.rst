@@ -2,8 +2,8 @@
 Changelog for package saphari_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
 * Changelog files for release
 * new message saphari_msgs/GestureData required for saphari final review.
 * Correct BodyPart.msg: FOREARM->LEFTFOREARM.

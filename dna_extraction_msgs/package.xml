@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>dna_extraction_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Message definitions for controlling DNA extraction related actions in the ACAT project context</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

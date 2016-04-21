@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>saphari_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Message definitions for manipulation and perception related tasks within the SAPHARI project</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

@@ -2,8 +2,8 @@
 Changelog for package planning_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
 * Fixed version number in planning_msgs
 * Added duration field in planning messages steps and plans
 * Per-step scoring

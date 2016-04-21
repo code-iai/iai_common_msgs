@@ -2,8 +2,8 @@
 Changelog for package sherlock_sim_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
 * Changelog files for release
 * Contributors: Jan Winkler
 

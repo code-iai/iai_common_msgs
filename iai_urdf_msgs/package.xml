@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>iai_urdf_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Service definitions for manipulating the robot description.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

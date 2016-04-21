@@ -5,7 +5,7 @@
     Action interfaces to trigger perception via the Robosherlock
     perception system.
   </description>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <author email="georg.bartels@cs.uni-bremen.de">Georg Bartels</author>
   <author>Ferenc Balint-Benczedi (catkinization)</author>
   <maintainer email="georg.bartels@cs.uni-bremen.de">Georg Bartels</maintainer>

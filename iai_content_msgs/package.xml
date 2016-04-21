@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>iai_content_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Message definitions for transporting multiple grasping-related datasets at the same time.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

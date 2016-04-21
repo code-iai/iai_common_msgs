@@ -2,8 +2,8 @@
 Changelog for package iai_wsg_50_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
 * added header to wsg status msg
 * Changelog files for release
 * Contributors: Jan Winkler, ichumuh

@@ -2,8 +2,8 @@
 Changelog for package json_prolog_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
 * Changelog files for release
 * Contributors: Jan Winkler
 

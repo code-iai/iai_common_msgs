@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>iai_control_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>
     Message defintions to talk to the motion controllers developed in
     the IAI institute, University Bremen, Germany.

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>grasp_stability_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Message definitions for grasp stability analysis during robot manipulation actions</description>
 
   <maintainer email="winkler@cs.uni-bremen.de">Jan Winkler</maintainer>

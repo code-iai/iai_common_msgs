@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>person_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Message definitions for detected persons from within RoboSherlock</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

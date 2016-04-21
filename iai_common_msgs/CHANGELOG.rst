@@ -2,8 +2,8 @@
 Changelog for package iai_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
 * Added attache messages
 * Changelog files for release
 * Reordered deps in metapackage, and added missing deps iai_control_msgs, iai_urdf_msgs, grasp_stability_msgs.

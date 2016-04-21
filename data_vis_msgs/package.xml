@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>data_vis_msgs</name>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>Messages for transporting data to visualize, accompanied by their visualization details.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
