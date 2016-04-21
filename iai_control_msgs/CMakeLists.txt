@@ -12,7 +12,8 @@ add_message_files(
   MultiJointVelocityImpedanceState.msg
   CartGoal.msg
   CartState.msg
-  JointLimits.msg)
+  JointLimits.msg
+  PowerState.msg)
 
 add_action_files(
   DIRECTORY action
