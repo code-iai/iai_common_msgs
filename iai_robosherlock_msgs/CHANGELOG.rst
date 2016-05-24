@@ -2,13 +2,12 @@
 Changelog for package iai_robosherlock_actions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.2 (2014-06-24)
+0.0.7 (2016-05-24)
 ------------------
-* Increased version numbers
-* renamed iai_pancake_perception_action into iai_robosherlock_actions
-* added new action-definition 'SimplePerceiveObject'
-* removed action-definition 'DetectPancake'
-* Contributiors: Georg Bartels
+* added service for setting the context in robosherlock, which results in setting a pipeline with a different parameterization
+* added simple service call for object detection( dna_extraction_msgs becomming deprecated )
+* renamed package to iai_robosherlock_msgs
+* Contributors: Ferenc Balint-Benczedi
 
 0.0.6 (2016-04-21)
 ------------------
@@ -33,6 +32,14 @@ Changelog for package iai_robosherlock_actions
 * Added action-definition SimplePerceiveObject.
 * Renamed iai_pancake_perception_action into iai_robosherlock_actions.
 * Contributors: Ferenc Balint-Benczedi, Georg Bartels
+
+0.0.2 (2014-06-24)
+------------------
+* Increased version numbers
+* renamed iai_pancake_perception_action into iai_robosherlock_actions
+* added new action-definition 'SimplePerceiveObject'
+* removed action-definition 'DetectPancake'
+* Contributiors: Georg Bartels
 
 0.0.1 (2014-05-16)
 ------------------
