@@ -1,8 +1,0 @@
-#request
-std_msgs/Header header
-geometry_msgs/Pose pose
-int32 id
-string modelName
----
-#response
-bool flag
