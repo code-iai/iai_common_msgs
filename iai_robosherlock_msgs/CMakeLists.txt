@@ -17,6 +17,7 @@ add_message_files (
 add_service_files(FILES
   SetRSContext.srv
   PerceiveObject.srv
+  RSQueryService.srv
 )
 
 add_action_files(
