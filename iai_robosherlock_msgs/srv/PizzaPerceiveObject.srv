@@ -1,0 +1,6 @@
+string object_name
+bool apply_pos_rot_fixes
+bool stick_to_map
+bool publish_transform_once
+---
+geometry_msgs/TransformStamped object_transf
