@@ -1,12 +1,15 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(attache_msgs)
 
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -pedantic -Wall -Wextra")
+
 find_package(catkin REQUIRED COMPONENTS message_generation)
 
 add_service_files(DIRECTORY srv
   FILES
   Attachment.srv
   JointControl.srv
+  JointSetLimits.srv
   JointInformation.srv)
 
 generate_messages()

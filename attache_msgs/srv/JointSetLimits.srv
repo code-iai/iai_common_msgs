@@ -1,0 +1,6 @@
+string model
+string joint
+float32 lower
+float32 upper
+---
+bool success
