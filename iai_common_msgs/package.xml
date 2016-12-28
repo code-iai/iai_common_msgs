@@ -11,27 +11,21 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   
+  <run_depend>attache_msgs</run_depend>
   <run_depend>data_vis_msgs</run_depend>
   <run_depend>designator_integration_msgs</run_depend>
-  <run_depend>dna_extraction_msgs</run_depend>
   <run_depend>grasp_stability_msgs</run_depend>
   <run_depend>iai_content_msgs</run_depend>
   <run_depend>iai_control_msgs</run_depend>
   <run_depend>iai_kinematics_msgs</run_depend>
+  <run_depend>iai_pepper_demo_msgs</run_depend>
   <run_depend>iai_robosherlock_actions</run_depend>
   <run_depend>iai_urdf_msgs</run_depend>
   <run_depend>iai_wsg_50_msgs</run_depend>
   <run_depend>json_prolog_msgs</run_depend>
-  <run_depend>mln_robosherlock_msgs</run_depend>
   <run_depend>person_msgs</run_depend>
   <run_depend>planning_msgs</run_depend>
-  <run_depend>saphari_msgs</run_depend>
   <run_depend>scanning_table_msgs</run_depend>
-  <run_depend>sherlock_sim_msgs</run_depend>
-  <run_depend>iai_wsg_50_msgs</run_depend>
-  <run_depend>person_msgs</run_depend>
-  <run_depend>json_prolog_msgs</run_depend>
-  <run_depend>attache_msgs</run_depend>
 
   <export>
    <metapackage/>
