@@ -6,14 +6,14 @@ find_package(catkin REQUIRED COMPONENTS message_generation)
 add_service_files(DIRECTORY srv
   FILES
   Attachment.srv
+  AttachmentsList.srv
   JointControl.srv
   JointSetLimits.srv
-  JointInformation.srv
-  JointsList.srv)
+  JointInformation.srv)
 
 add_message_files(DIRECTORY msg
   FILES
-  JointConnection.msg)
+  AttachmentConnection.msg)
 
 generate_messages()
 
