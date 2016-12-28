@@ -8,7 +8,12 @@ add_service_files(DIRECTORY srv
   Attachment.srv
   JointControl.srv
   JointSetLimits.srv
-  JointInformation.srv)
+  JointInformation.srv
+  JointsList.srv)
+
+add_message_files(DIRECTORY msg
+  FILES
+  JointConnection.msg)
 
 generate_messages()
 
