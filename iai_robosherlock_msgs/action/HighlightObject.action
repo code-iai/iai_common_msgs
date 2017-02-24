@@ -7,10 +7,7 @@ string obj_name
 # result
 bool found
 geometry_msgs/PoseStamped pose
-sensor_msgs/Image image
-sensor_msgs/Image depth_image
-
 ---
 
 #feedback
-sensor_msgs/Image percepts
+bool found
