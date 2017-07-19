@@ -13,7 +13,9 @@ add_message_files(
   CartGoal.msg
   CartState.msg
   JointLimits.msg
-  PowerState.msg)
+  PowerState.msg
+  pose_w_joints.msg)
+
 
 add_action_files(
   DIRECTORY action
