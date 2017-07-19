@@ -17,6 +17,7 @@ int32 TYPE_POINT=10
 int32 TYPE_WRENCH=11
 int32 TYPE_MATRIX=12
 int32 TYPE_VECTOR=13
+int32 TYPE_TRANSFORMSTAMPED=14
 
 int32 type
 
@@ -29,3 +30,4 @@ geometry_msgs/PoseStamped value_posestamped
 geometry_msgs/Pose value_pose
 geometry_msgs/Point value_point
 geometry_msgs/Wrench value_wrench
+geometry_msgs/TransformStamped value_transformstamped
