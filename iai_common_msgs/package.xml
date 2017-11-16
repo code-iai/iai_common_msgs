@@ -19,7 +19,7 @@
   <run_depend>iai_control_msgs</run_depend>
   <run_depend>iai_kinematics_msgs</run_depend>
   <run_depend>iai_pepper_demo_msgs</run_depend>
-  <run_depend>iai_robosherlock_actions</run_depend>
+  <run_depend>iai_robosherlock_msgs</run_depend>
   <run_depend>iai_urdf_msgs</run_depend>
   <run_depend>iai_wsg_50_msgs</run_depend>
   <run_depend>json_prolog_msgs</run_depend>
