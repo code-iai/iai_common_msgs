@@ -7,6 +7,7 @@ find_package(catkin REQUIRED COMPONENTS
   designator_integration_msgs
   actionlib_msgs 
   sensor_msgs
+  visualization_msgs
   message_generation)
 
 add_message_files (
@@ -20,6 +21,7 @@ add_service_files(FILES
   PerceiveObject.srv
   PizzaPerceiveObject.srv
   RSQueryService.srv
+  UpdateObjects.srv
 )
 
 add_action_files(
@@ -30,6 +32,7 @@ add_action_files(
 generate_messages(
   DEPENDENCIES
   geometry_msgs
+  visualization_msgs
   shape_msgs
   sensor_msgs
   designator_integration_msgs
